@@ -12,7 +12,7 @@
 
 
 [![version](https://badge.fury.io/py/cai-framework.svg)](https://badge.fury.io/py/cai-framework)
-[![downloads](https://img.shields.io/pypi/dm/cai-framework)](https://pypistats.org/packages/cai-framework)
+[![downloads](https://static.pepy.tech/badge/cai-framework)](https://pepy.tech/projects/cai-framework)
 [![Linux](https://img.shields.io/badge/Linux-Supported-brightgreen?logo=linux&logoColor=white)](https://github.com/aliasrobotics/cai)
 [![OS X](https://img.shields.io/badge/OS%20X-Supported-brightgreen?logo=apple&logoColor=white)](https://github.com/aliasrobotics/cai)
 [![Windows](https://img.shields.io/badge/Windows-Supported-brightgreen?logo=windows&logoColor=white)](https://github.com/aliasrobotics/cai)
@@ -20,6 +20,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/fnUFcTaQAC)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.06017-b31b1b.svg)](https://arxiv.org/pdf/2504.06017)
 [![arXiv](https://img.shields.io/badge/arXiv-2506.23592-b31b1b.svg)](https://arxiv.org/abs/2506.23592)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.13588-b31b1b.svg)](https://arxiv.org/abs/2508.13588)
 
 
 
@@ -35,6 +36,9 @@ Cybersecurity AI (CAI) is a lightweight, open-source framework that empowers sec
 
 > [!NOTE]
 > Read the technical report: [CAI: An Open, Bug Bounty-Ready Cybersecurity AI](https://arxiv.org/pdf/2504.06017)
+>
+> For further readings, refer to our [research publications](https://aliasrobotics.com/research-security.php#papers) and also to the [CAI citation](#citation) section.
+
 
 
 | [`OT` - CAI and alias0 on: Ecoforest Heat Pumps](https://aliasrobotics.com/case-study-ecoforest.php) | [`Robotics` - CAI and alias0 on: Mobile Industrial Robots (MiR)](https://aliasrobotics.com/case-study-cai-mir.php) |
@@ -188,6 +192,10 @@ Cybersecurity AI is a critical field, yet many groups are misguidedly pursuing i
     </a>
   </p>
 </div>
+
+> [!NOTE]
+> Read the [CAI Fluency](https://arxiv.org/pdf/2508.13588) technical report.
+
 
 
 |       |   Description  | English | Spanish |
@@ -1016,6 +1024,18 @@ If you want to cite our work, please use the following:
       archivePrefix={arXiv},
       primaryClass={cs.CR},
       url={https://arxiv.org/abs/2506.23592}, 
+}
+```
+
+```bibtex
+@misc{mayoralvilches2025caifluencyframeworkcybersecurity,
+      title={CAI Fluency: A Framework for Cybersecurity AI Fluency}, 
+      author={Víctor Mayoral-Vilches and Jasmin Wachter and Cristóbal R. J. Veas Chavez and Cathrin Schachner and Luis Javier Navarrete-Lozano and María Sanz-Gómez},
+      year={2025},
+      eprint={2508.13588},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2508.13588}, 
 }
 ```
 
