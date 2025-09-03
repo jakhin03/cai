@@ -2,8 +2,6 @@ from __future__ import annotations
 import json
 import xml.etree.ElementTree as ET
 from typing import Any, Dict, List, Optional
-import xml.etree.ElementTree as ET
-from typing import Any, Dict, List, Optional
 
 from cai.sdk.agents import function_tool  # decorator used across CAI tools
 
